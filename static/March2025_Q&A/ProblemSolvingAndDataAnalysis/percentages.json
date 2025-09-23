@@ -1,0 +1,113 @@
+[
+{
+  "id": 1,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12254_1.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "110",
+  "explanation": "The correct answer is 110. Let x represent the total number of items in the sample. It's given that 80% of the items are faulty and that there are 88 faulty items in the sample. Therefore, 80% of x is 88. Since 80% can be rewritten as 80/100, it follows that 80/100 x = 88. Multiplying both sides of this equation by 100 yields 80x = 8,800. Dividing both sides of this equation by 80 yields x = 110. Therefore, there are 110 total items in the sample"
+},
+{
+  "id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 22%",
+  "B) 33%",
+  "C) 66%",
+  "D) 78%"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12255_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 78%",
+  "explanation": "Choice D is correct. The proportion of the paper clips that are size large can be written as 234,000 / 300,000 or 0.78. Therefore, the percentage of the paper clips that are size large is 0.78(100), or 78%. Choice A is incorrect. This is the percentage of the paper clips that are not size large. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 138",
+  "B) 217",
+  "C) 283",
+  "D) 383"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12258_3.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 383",
+  "explanation": "Choice D is correct. It's given that a is 230% of b. It follows that a = (230/100)b. It's also given that a is 60% of c. It follows that a = (60/100)c. Since a = (230/100)b and a = (60/100)c, it follows that (230/100)b = (60/100)c. Multiplying each side of this equation by (100/60) yields (230/60)b = c. If c is p% of b, then c = (p/100)b. It follows that (230/60) = p/100. Multiplying each side of this equation by 100 yields (23000/60) = p. It follows that the value of p is approximately 383.33. Therefore, of the given choices, 383 is closest to the value of p. Choice A is incorrect. This is closest to the value of p if b is 230% of a, rather than if a is 230% of b, and if b is p% of c, rather than if c is p% of b. Choice B is incorrect. This is closest to the value of p if a is 230% greater than b, rather than 230% of b. Choice C is incorrect. This is closest to the value of p if c is p% greater than b, rather than p% of b."
+},
+{
+  "id": 4,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 6",
+  "B) 15",
+  "C) 75",
+  "D) 244"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12268_4.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 15",
+  "explanation": "Choice B is correct. It's given that there are 250 trees in a park and of these trees, 6% are birch trees. The number of birch trees in the park can be calculated by multiplying the number of trees in the park by 6/100. Therefore, the number of birch trees in the park is 250(6/100), or 15. Choice A is incorrect. This is the percentage of trees in the park that are birch trees, not the number of birch trees in the park. Choice C is incorrect. This is 30%, not 6%, of 250. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 5,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 12,996",
+  "B) 12,312",
+  "C) 38",
+  "D) 36"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12272_5.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 36",
+  "explanation": "Choice D is correct. It's given that the result of increasing the quantity x by 1,800% is 684. It follows that x+(1,800/100)x = 684, which is equivalent to x+18x = 684, or 19x = 684. Dividing each side of this equation by 19 yields x = 36. Therefore, the value of x is 36. Choice A is incorrect. The result of increasing the quantity 12,996 by 1,800% is 246,924, not 684. Choice B is incorrect. The result of increasing the quantity 12,312 by 1,800% is 233,928, not 684. Choice C is incorrect. The result of increasing the quantity 38 by 1,800% is 722, not 684."
+},
+{
+  "id": 6,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12276_6.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "27",
+  "explanation": "The correct answer is 27. It's given that 6% of the 450 tiles in a box are black. Therefore, the number of black tiles in the box can be calculated by multiplying the number of tiles in the box by 6/100 which is equivalent to 450(6/100), or 27."
+},
+{
+  "id": 7,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 88",
+  "B) 87",
+  "C) 12",
+  "D) 8"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/Percentages/12278_7.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 88",
+  "explanation": "Choice A is correct. It's given that a scientist studying the life cycle of dragonflies counted the number of dragonflies in a certain habitat each day for 46 days. It's also given that on February 15, there were 99 dragonflies in the habitat and that the percent increase in the number of dragonflies in the habitat from January 1 to February 15 was 12.50%. This can be represented by the equation 99 = (1 + 12.50/100)x, where x represents the number of dragonflies in the habitat on January 1. This equation can be rewritten as 99 = 1.125x. Dividing both sides of this equation by 1.125 yields 88 = x. Therefore, there were 88 dragonflies in the habitat on January 1. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+}
+]
+
+

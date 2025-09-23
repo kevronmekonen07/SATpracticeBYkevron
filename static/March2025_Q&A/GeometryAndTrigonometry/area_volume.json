@@ -1,0 +1,113 @@
+[
+  {
+  "id": 1,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12288_1.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "1,260",
+  "explanation": "The correct answer is 1,260. Since it's given that prisms X and Y are similar, all the linear measurements of prism Y are k times the respective linear measurements of prism X, where k is a positive constant. Therefore, the surface area of prism Y is k^2 times the surface area of prism X and the volume of prism Y is k^3 times the volume of prism X. It's given that the surface area of prism Y is 1,450 cm^2, and the surface area of prism X is 58 cm^2, which implies that 1,450 = 58k^2. Dividing 1,450 both sides of this equation by 58 yields 1,450/58 = k^2, or k^2 = 25. Since k is a positive constant, k = 5. It's given that the volume of prism Y is 1,250 cm^3. Therefore, the volume of prism X is equal to 1,250/k^3 cm^3, which is equivalent to 1,250/5^3 cm^3, or 10 cm^3. Thus, the sum of the volumes, in cm^3, of the two prisms is 1,250 + 10, or 1,260."
+},
+{
+"id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 6",
+  "B) 10",
+  "C) 60",
+  "D) 150"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12290_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 6",
+  "explanation": "Choice A is correct. It's given that the length of each side of a scale model is 1/10 times the length of the corresponding side of the actual floor of a ballroom. Therefore, the area of the scale model is (1/10)^2, or 1/100 times the area of the actual floor of the ballroom. It's given that the area of the floor of the ballroom is 600 square meters. Therefore, the area, in square meters, of the scale model is (1/100)(600), or 6. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 14π",
+  "B) 28π",
+  "C) 56π",
+  "D) 116π"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12291_3.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 116π",
+  "explanation": "Choice D is correct. The area, A, of a circle is given by the formula A = πr², where r represents the radius of the circle. It's given that circle K has a radius of 4 millimeters (mm). Substituting 4 for r in the formula A = πr² yields A = π(4)², or A = = 16. Therefore, the area of circle K is 16π mm². It's given that circle L has an area of 100π mm². Therefore, the total area, in mm², of circles K and L is 16π + 100π, or 116π. Choice A is incorrect. This is the sum of the radii, in mm, of circles K and L multiplied by π, not the m², of the circles. 2 total area, in mm², Choice B is incorrect. This is the sum of the diameters, in mm, of circles K and L multiplied by π, not the total area, in mm², of the circles. Choice C is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 4,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 92",
+  "B) 84",
+  "C) 80",
+  "D) 52"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12293_4.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 52",
+  "explanation": "Choice D is correct. It's given that rectangle P has an area of 72 square inches. If a rectangle with an area of 20 square inches is removed from rectangle P, the area, in square inches, of the resulting figure is 72 - 20, or 52. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 5,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 2",
+  "B) 8",
+  "C) 10",
+  "D) 24"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12296_5.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 8",
+  "explanation": "Choice B is correct. The perimeter of a triangle is the sum of the lengths of all three of its sides. It's given that the lengths of two sides of a triangle are 4 centimeters and 6 centimeters. Let z represent the length, in centimeters, of the third side of this triangle. The sum of the lengths, in centimeters, of all three sides of the triangle can be represented by the expression 4+6+z. Since it's given that the perimeter of the triangle is 18 centimeters, it follows that 4+6+z=18, or 10 + z = 18. Subtracting 10 from both sides of this equation yields z = 8. Therefore, the length, in centimeters, of the third side of this triangle is 8. Choice A is incorrect. If the length of the third side of this triangle were 2 centimeters, the perimeter, in centimeters, of the triangle would be 4+6+2, or 12, not 18. Choice C is incorrect. If the length of the third side of this triangle were 10 centimeters, the perimeter, in centimeters, of the triangle would be 4+6+10, or 20, not 18. Choice D is incorrect. If the length of the third side of this triangle were 24 centimeters, the perimeter, in centimeters, of the triangle would be 4+6+24, or 34, not 18."
+},
+{
+  "id": 6,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12297_6.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "4.41",
+  "explanation": "The correct answer is 4.41. The area, A, of a circle is given by the formula A = πr², where r is the radius of the circle. It's given that the area of the circle is bπ square inches, where b is a constant, and the radius of the circle is 2.1 inches. Substituting bπ for A and 2.1 for r in the formula A = πr² yields bπ = π(2.1²). Dividing both sides of this equation by π yields b = 4.41. Therefore, the value of b is 4.41."
+},
+{
+  "id": 7,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 12",
+  "B) 36",
+  "C) 77",
+  "D) 85"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/AreaVolume/12300_7.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 85",
+  "explanation": "Choice D is correct. The volume, V, of a right circular cone is given by the formula V = (1/3)πr²h, where πr² is the area of the circular base of the cone and h is the height. It’s given that this right circular cone has a volume of 71,148 cubic centimeters and the area of its base is 5,929π square centimeters. Substituting 71,148π for V and 5,929π for πr² in the formula V = (1/3)πr²h yields 71,148π = (1/3)(5,929π)(h). Dividing each side of this equation by 5,929π yields 12 = (1/3)h. Multiplying each side of this equation by 3 yields 36 = h. Let s represent the slant height, in centimeters, of this cone. A right triangle is formed by the radius, r, height, h, and slant height, s, of this cone, where r and h are the legs of the triangle and s is the hypotenuse. Using the Pythagorean theorem, the equation r² + h² = s² represents this relationship. Because 5,929π is the area of the base and the area of the base is πr², it follows that 5,929π = πr². Dividing both sides of this equation by π yields 5,929 = r². Substituting 5,929 for r² and 36 for h in the equation r² + h² = s² yields 5,929 + 36² = s², which is equivalent to 5,929 + 1,296 = s², or 7,225 = s². Taking the positive square root of both sides of this equation yields 85 = s. Therefore, the slant height of the cone is 85 centimeters. Choice A is incorrect. This is one-third of the height, in centimeters, not the slant height, in centimeters, of this cone. Choice B is incorrect. This is the height, in centimeters, not the slant height, in centimeters, of this cone. Choice C is incorrect. This is the radius, in centimeters, of the base, not the slant height, in centimeters, of this cone."
+}
+]
+
+

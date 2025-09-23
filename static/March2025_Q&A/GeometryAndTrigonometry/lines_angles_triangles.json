@@ -1,0 +1,147 @@
+[
+{
+  "id": 1,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 20°",
+  "B) 45°",
+  "C) 135°",
+  "D) 160°"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12282_1.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 45°",
+  "explanation": "Choice B is correct. It's given that triangles EFG and JKL are congruent such that angle E corresponds to angle J. Corresponding angles of congruent triangles are congruent, so angle E and angle J must be congruent. Therefore, if the measure of angle E is 45°, then the measure of angle J is also 45°. Choice A is incorrect. This is the measure of angle K, not angle J. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 204",
+  "B) 182",
+  "C) 60",
+  "D) 12"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12285_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 12",
+  "explanation": "Choice D is correct. It's given that triangle ABC is similar to triangle XYZ, where A, B, and C correspond to X, Y, and Z, respectively. It follows that side AB corresponds to side XY and side BC corresponds to side YZ. Since the lengths of corresponding sides in similar triangles are proportional, it follows that XY/AB = YZ/BC. Substituting 170 for AB, 60 for YZ, and 850 for BC in this equation yields XY/170 = 60/850. Multiplying each side of this equation by 170 yields XY = 12. Therefore, the length of XY is 12. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect. This is the length of YZ, not XY."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 29/28",
+  "B) 1",
+  "C) 28/29",
+  "D) 0"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12289_3.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 29/28",
+  "explanation": "Choice A is correct. It's given that each side of equilateral triangle S is multiplied by a scale factor of k to create equilateral triangle T. Since the length of each side of triangle T is greater than the length of each side of triangle S, the scale factor of k must be greater than 1. Of the given choices, only 29/28 is greater than 1. Choice B is incorrect. If each side of equilateral triangle S is multiplied by a scale factor of 1, the length of each side of triangle T would be equal to the length of each side of triangle S. Choice C is incorrect. If each side of equilateral triangle S is multiplied by a scale factor of 28/29, the length of each side of triangle T would be less than the length of each side of triangle S. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 4,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12298_4.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "153",
+  "explanation": "The correct answer is 153. Since it's given that PQ is parallel to XY and angle Y is a right angle, angle ZQP is also a right angle. Angle ZPQ is complementary to angle XZY, which means its measure, in degrees, is 90 – 63, or 27. Since angle XPQ is supplementary to angle ZPQ, its measure, in degrees, is 180 – 27, or 153."
+},
+{
+  "id": 5,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) (90 - (t - k))°",
+  "B) (90 - (t + k))°",
+  "C) (90 - t)°",
+  "D) (90 + k)°"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12299_5.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "C) (90 - t)°",
+  "explanation": "Choice C is correct. Since P=(4, 5) and Q =(4, 7), side PQ is parallel to the y-axis and has a length of 2. Since P=(4,5) and R=(6, 5), side PR is parallel to the x-axis and has a length of 2. Therefore, triangle PQR is a right isosceles triangle, where ∠P has measure 90° and ∠Q and ∠R each have measure 45°. It follows that if the measure of ∠Q is t°, then t = 45. Since L =(4,5) and M=(4,7+k), side LM is parallel to the y-axis and has a length of k + 2. Since L =(4,5) and N=(6+k, 5), side LN is parallel to the x-axis and has a length of k + 2. Therefore, triangle LMN is a right isosceles triangle, where ∠L has measure 90° and ∠M and ∠N each have measure 45°. Of the given choices, only (90-t)° is equal to 45°, so the measure of ∠N is (90-t)°. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 6,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12302_6.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "162",
+  "explanation": "The correct answer is 162. It's given that line r is parallel to line s. Since line n intersects both lines r and s, it's a transversal. The angles in the figure marked as 162° and x° are on the same side of the transversal, where one is an interior angle with line s as a side, and the other is an exterior angle with line r as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and, therefore, have equal measure. It follows that the value of x is 162."
+},
+{
+  "id": 7,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 36",
+  "B) 45",
+  "C) 72",
+  "D) 108"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12303_7.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "C) 72",
+  "explanation": "Choice C is correct. The sum of the interior angles of a triangle is 180°. It's given that the interior angles of triangle ABC are 54°, 90°, and (k/2)°. It follows that 54 + 90 + k/2 = 180, or 144 + k/2 = 180. Subtracting 144 from each side of this equation yields k/2 = 36. Multiplying each side of this equation by 2 yields k = 72. Therefore, the value of k is 72. Choice A is incorrect. This is the value of k/2, not k. Choice B is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 8,
+  "type": "free-response",
+  "question": "",
+  "choices": [
+  "A) 52",
+  "B) 90",
+  "C) 142",
+  "D) 180"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12304_8.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "1,660",
+  "explanation": "The correct answer is 1,660. It's given that a line intersects two parallel lines, forming four acute angles and four obtuse angles. When two parallel lines are intersected by a transversal line, the angles formed have the following properties: two adjacent angles are supplementary, and alternate interior angles are congruent. Therefore, each of the four acute angles have the same measure, and each of the four obtuse angles have the same measure. It's also given that the measure of one of the acute angles is (9x-560)°. If two angles are supplementary, then the sum of their measures is 180°. Therefore, the measure of the obtuse angle adjacent to any of the acute angles is (180-(9x-560))°, or (180-9x+560)°, which is equivalent to (-9x+740)°. It's given that the sum of the measures of one of the acute angles and three of the obtuse angles is (-18x + w)°. It follows that (9x-560)+3(-9x+740)=(-18x + w), which is equivalent to 9x-560-27x+2,220=-18x+w, or -18x+1,660=-18x+w. Adding 18x to both sides of this equation yields 1,660 = w."
+},
+{
+  "id": 9,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 52",
+  "B) 90",
+  "C) 142",
+  "D) 180"
+  ],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/LinesAnglesTriangles/12306_9.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 180",
+  "explanation": "Choice D is correct. In the figure shown, the angle marked x° and the angle marked 142° form a linear pair of angles. If two angles form a linear pair of angles, the sum of the measures of the angles is 180°. Therefore, the value of x + 142 is 180. Choice A is incorrect. This is 90 less than 142, not the sum of x and 142. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect. This is the measure, in degrees, of one of the angles shown."
+}
+]
+
+

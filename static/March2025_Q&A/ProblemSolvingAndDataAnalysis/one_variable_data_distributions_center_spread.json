@@ -1,0 +1,89 @@
+[
+  {
+  "id": 1,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 0",
+  "B) 1",
+  "C) 4",
+  "D) 6"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/OneVariableDataDistributionsCenterSpread/12253_1.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 6",
+  "explanation": "Choice D is correct. It's given that the bar graph summarizes the charge, in kilowatt-hours (kWh), a battery received each day for 15 days. The height of each bar in the bar graph shown represents the number of days the battery received the charge, in kWh, specified at the bottom of the bar. The bar for a charge of 0 kWh reaches a height of 6. Therefore, the battery received a charge of 0 kWh for 6 of these days. Choice A is incorrect. This is the charge, in kWh, that the battery received, not the number of days the battery received this charge. Choice B is incorrect. This is the number of days the battery received a charge of either 8, 16, or 23 kWh. Choice C is incorrect. This is the number of days the battery received a charge of 11 kWh."
+},
+{
+  "id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 10",
+  "B) 30",
+  "C) 40",
+  "D) 70"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/OneVariableDataDistributionsCenterSpread/12256_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 10",
+  "explanation": "Choice A is correct. It's given that the bar graph shows the distribution of the number of students in each of four extracurricular activities at a high school. The bar representing drama has a height of 40; therefore, there are 40 students in drama. The bar representing chess has a height of 30; therefore, there are 30 students in chess. Thus, there are 40-30, or 10 more students in drama than in chess. Choice B is incorrect. This is the number of students in chess. Choice C is incorrect. This is the number of students in drama. Choice D is incorrect. This is the sum of the number of students in drama and in chess."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) Blue",
+  "B) Green",
+  "C) Red",
+  "D) Yellow"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/OneVariableDataDistributionsCenterSpread/12259_3.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) Green",
+  "explanation": "Choice B is correct. It's given that a data set consists of 173 colors and the bar graph shows the number of times each color appears in the data set. Therefore, for each color specified at the bottom of the bar, the frequency corresponds to the number of times that color appears in the data set. The color that appears 70 times in the data set has a frequency of 70 on the bar graph. Since the bar with a frequency of 70 corresponds to green, green is the color that appears 70 times. Choice A is incorrect. The color blue appears about 27 times, not 70 times. Choice C is incorrect. The color red appears about 33 times, not 70 times. Choice D is incorrect. The color yellow appears about 43 times, not 70 times."
+},
+{
+  "id": 4,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) The mean of the new data set is greater than the mean of the original data set, and the median of the new data set is greater than the median of the original data set.",
+  "B) The mean of the new data set is greater than the mean of the original data set, and the medians of the two data sets are equal.",
+  "C) The mean of the new data set is less than the mean of the original data set, and the median of the new data set is less than the median of the original data set.",
+  "D) The mean of the new data set is less than the mean of the original data set, and the medians of the two data sets are equal."
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/OneVariableDataDistributionsCenterSpread/12264_4.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "B) The mean of the new data set is greater than the mean of the original data set, and the medians of the two data sets are equal.",
+  "explanation": "Choice B is correct. The mean of a data set is the sum of the values in the data set divided by the number of values in the data set. The new data set consists of the weights of the 71 tortoises in the original data set and one additional weight, 39. Since the additional weight, 39, is greater than any of the values in the original data set, the mean of the new data set is greater than the mean of the original data set. If a data set contains an odd number of data values, the median is represented by the middle data value in the list when the data values are listed in ascending or descending order. Since the original data set consists of the weights of 71 tortoises and is in ascending order, the median of the original data set is represented by the middle value, or the 36th value. Based on the frequencies shown in the table, the 36th value in this data set is 17. If a data set contains an even number of data values, the median is between the two middle data values when the values are listed in ascending or descending order. Since the new data set consists of the weights of 72 tortoises, the median of the new data set is between the 36th and 37th data values when the values are arranged in ascending order. To keep the data in ascending order, the additional value of 39 would be placed at the bottom of the frequency table with a frequency of 1. Therefore, based on the frequencies in the table, the 36th and 37th values in the new data set are both 17. It follows that the median of the new data set is 17, which is the same as the median of the original data set. Therefore, the mean of the new data set is greater than the mean of the original data set, and the medians of the two data sets are equal. Choice A is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 5,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 83",
+  "B) 152",
+  "C) 235",
+  "D) 495"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/OneVariableDataDistributionsCenterSpread/12267_5.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "C) 235",
+  "explanation": "Choice C is correct. The table shows that for a certain region in 2016, the average number of store employees in warehouse stores was 365 and the average number of store employees in supermarkets was 130. Subtracting 130 from 365 yields 365-130, or 235. Therefore, the average number of store employees was 235 greater in warehouse stores than in supermarkets. Choice A is incorrect. For this region in 2016, this is how much greater the average number of store employees was in department stores than in supermarkets. Choice B is incorrect. For this region in 2016, this is how much greater the average number of store employees was in warehouse stores than in department stores. Choice D is incorrect. For this region in 2016, this is the sum of the average number of store employees in warehouse stores and in supermarkets."
+}
+]
+
+

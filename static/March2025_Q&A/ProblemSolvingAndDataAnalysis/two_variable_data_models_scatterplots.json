@@ -1,0 +1,80 @@
+[
+  {
+  "id": 1,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/TwoVariableDataModelsScatterplots/12261_1.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "",
+  "explanation": "The correct answer is 5. For the graph shown, x represents time, in minutes, and y represents temperature, in degrees Celsius (°C). Therefore, the average rate of change, in °C per minute, of the recorded temperature of the air in the chamber between two x-values is the difference in the corresponding y-values divided by the difference in the x-values. The graph shows that at x = 5, the corresponding y-value is 14. The graph also shows that at x = 7, the corresponding y-value is 24. It follows that the average rate of change, in °C per minute, from x = 5 to x = 7 is equivalent to 10/2 or 5. 24-14/7-5 which is equivalent to 10/2, or 5."
+},
+{"id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) y = x + 3.4",
+  "B) y = x - 3.4",
+  "C) y = -x + 3.4",
+  "D) y = -x - 3.4"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/TwoVariableDataModelsScatterplots/12269_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) y = x + 3.4",
+  "explanation": "Choice A is correct. The line of best fit shown has a positive slope and intersects the y-axis at a positive y-value. The graph of an equation of the form y = mx + b, where m and b are constants, has a slope of m and intersects the y-axis at a y-value of b. Of the given choices, only y = x + 3.4 represents a line that has a positive slope, 1, and intersects the y-axis at a positive y-value, 3.4. Choice B is incorrect. This equation represents a line that intersects the y-axis at a negative y-value, not a positive y-value. Choice C is incorrect. This equation represents a line that has a negative slope, not a positive slope. Choice D is incorrect. This equation represents a line that has a negative slope, not a positive slope, and intersects the y-axis at a negative y-value, not a positive y-value."
+},
+{"id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 0",
+  "B) ½",
+  "C) 1",
+  "D) 2"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/TwoVariableDataModelsScatterplots/12270_3.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 2",
+  "explanation": "Choice D is correct. A line in the xy-plane that passes through the points (x1, y1) and (x2, y2) has a slope of (y2-y1)/(x2-x1). The line of best fit shown passes approximately through the points (1,3.3) and (7, 14.5). It follows that the slope of this best fit line is approximately (14.5-3.3)/(7-1), which is equivalent to 11.2/6, or approximately 1.87. Therefore, of the given choices, 2 is closest to the slope of the line of best fit shown. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors."
+},
+{"id": 4,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 47",
+  "B) 35",
+  "C) 25",
+  "D) 0"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/TwoVariableDataModelsScatterplots/12280_4.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 35",
+  "explanation": "Choice B is correct. In the given scatterplot, the x-values represent the distance above sea level, in feet, and the y-values represent the temperature, in °F. The point on the line of best fit with an x-value of 4,000 has a corresponding y-value of 35. Therefore, at a distance of 4,000 feet above sea level, the temperature predicted by the line of best fit is 35°F. Choice A is incorrect. This is the temperature, in °F, predicted by the line of best fit at a distance of 0 feet above sea level. Choice C is incorrect. This is the measured temperature, in °F, at a distance of 6,000 feet above sea level. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{"id": 5,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) -3.3",
+  "B) -1.1",
+  "C) 1.1",
+  "D) 3.3"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/TwoVariableDataModelsScatterplots/12281_5.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "B) -1.1",
+  "explanation": "Choice B is correct. A line in the xy-plane that passes through points (x1, y1) and (x2, y2) has a slope of (y2 - y1) / (x2 - x1). The line of best fit shown passes approximately through the points (0, 14) and (13, 0). It follows that the slope of this line of best fit is approximately (0 - 14) / (13 - 0) or -14/13. Of the given choices, -1.1 is closest to -14/13. Choice A is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+}
+]
+
+

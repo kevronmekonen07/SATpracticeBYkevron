@@ -1,0 +1,72 @@
+[
+  {
+"id": 1,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 13√2",
+  "B) 13",
+  "C) 9√2",
+  "D) 9"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/circles/12284_1.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 13",
+  "explanation": "Choice B is correct. Since it's given that P is the center of a circle with a radius of 9 inches, and that points Q and R lie on that circle, it follows that PQ and RP of triangle PQR each have a length of 9 inches. Let the length of QR be x inches. It follows that the perimeter of triangle PQR is 9 + 9 + x inches. Since it's given that the perimeter of triangle PQR is 31 inches, it follows that 9 + 9 + x = 31, or 18 + x = 31. Subtracting 18 from both sides of this equation gives x = 13. Therefore, the length, in inches, of QR is 13. Choice A is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) Center: (13, k), Radius: 8",
+  "B) Center: (k, 13), Radius: 8",
+  "C) Center: (k, 13), Radius: 64",
+  "D) Center: (13, k), Radius: 64"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/circles/12292_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) Center: (13, k), Radius: 8",
+  "explanation": "Choice A is correct. For a circle in the xy-plane that has the equation (x-h)^2+(y-k)^2 = r^2, where h, k, and r are constants, (h, k) is the center of the circle and the positive value of r is the radius of the circle. In the given equation, h = 13 and r^2 = 64. Taking the square root of each side of r^2 = 64 yields r = +-8. Therefore, the center of the circle is at (13, k) and the radius is 8. Choice B is incorrect. This gives the center and radius of a circle with equation (x-k)^2+(y-13)^2 = 64, not (x-13)^2 + (y - k)^2 = 64. Choice C is incorrect. This gives the center and radius of a circle with equation (x-k)^2+(y-13)^2 = 4,096, not (x-13)^2 + (y -k)^2 = 64. Choice D is incorrect. This gives the center and radius of a circle with equation (x-13)^2+(y-k)^2 = 4,096, not (x-13)^2 + (y - k)^2 = 64."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) √109",
+  "B) √149",
+  "C) √167",
+  "D) √341"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/circles/12305_3.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "C) √167",
+  "explanation": "Choice C is correct. It's given that in the xy-plane, the graph of the given equation is a circle. The equation of a circle in the xy-plane can be written in the form (x-h)²+(y-k)² = r², where (h, k) is the center of the circle and r is the length of the circle's radius. Subtracting 6y from both sides of the equation x² + 14x + y² = 6y + 109 yields x² + 14x + y² - 6y = 109. By completing the square, this equation can be rewritten as (x²+14x+(14/2)²) + (y²-6y+(-6/2)²) = 109 + (14/2)² + (-6/2)². This equation can be rewritten as (x² + 14x + 49) + (y² - 6y + 9) = 109 + 49 + 9, or (x + 7)² + (y - 3)² = 167. Therefore, r² = 167. Taking the square root of both sides of this equation yields r = √167 and r = -√167. Since r is the length of the circle's radius, r must be positive. Therefore, the length of the circle's radius is √167. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors"
+},
+{
+  "id": 4,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 0",
+  "B) 1/2",
+  "C) √2 / 2",
+  "D) 1"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/circles/12307_4.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 0",
+  "explanation": "Choice A is correct. The sine of a number t is the y-coordinate of the point arrived at by traveling a distance of t units counterclockwise around the unit circle from the starting point (1, 0). Since the unit circle has a circumference of 2π units, it follows that one full rotation around the circle is equal to a distance of 2π units. Therefore, a distance of 42π units around the circle from the starting point (1,0) would result in exactly 21 full rotations, arriving back at the point (1, 0). So, sin 42π is equal to the y-coordinate of the point (1, 0), which is 0. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect. This is the value of cos 42π, not sin 42π."
+}
+]
+
+

@@ -1,0 +1,38 @@
+[
+  {
+  "id": 1,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) Plausible values for the average weight of all boxes of oranges filled by the company are between 22.91 pounds and 23.29 pounds.",
+  "B) Plausible values for the average weight of all boxes of oranges filled by the company are less than 22.91 pounds or greater than 23.29 pounds.",
+  "C) The average weight of all boxes of oranges filled by the company is less than 23.01 pounds.",
+  "D) The average weight of all boxes of oranges filled by the company is greater than 23.01 pounds."
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/InferenceSampleStatisticsMarginError/12266_1.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "A) Plausible values for the average weight of all boxes of oranges filled by the company are between 22.91 pounds and 23.29 pounds.",
+  "explanation": "Choice A is correct. It's given that the estimate for the average weight of all boxes of oranges filled by the company in an 8-hour period is 23.1 pounds, with an associated margin of error of 0.19 pounds. It follows that plausible values for this average weight are between 23.1 - 0.19 pounds and 23.1 + 0.19 pounds. Therefore, plausible values for the average weight of all boxes of oranges filled by the company are between 22.91 pounds and 23.29 pounds. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 2,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) It is between $4.15 and $4.31.",
+  "B) It is either less than $4.15 or greater than $4.31.",
+  "C) It is less than $4.15.",
+  "D) It is greater than $4.31."
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/InferenceSampleStatisticsMarginError/12279_2.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) It is between $4.15 and $4.31.",
+  "explanation": "Choice A is correct. It's given that the mean price of a carton of grape tomatoes in Utah was estimated to be $4.23, with an associated margin of error of $0.08. It follows that plausible values for this mean price are between $4.23 - $0.08 and $4.23 + $0.08. Therefore, it's plausible that the mean price of a carton of grape tomatoes for all locations that sell this product in Utah is between $4.15 and $4.31. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+}
+]
+
+

@@ -1,0 +1,130 @@
+[
+  {
+  "id": 1,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 18",
+  "B) 131",
+  "C) 149",
+  "D) 2,376"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12257_1.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 18",
+  "explanation": "Choice A is correct. It's given that there are 2358 raccoons in a 131-square-mile area. The estimated population density, in raccoons per square mile, is the estimated number of raccoons divided by the number of square miles. Therefore, the estimated population density of this area is (2358 raccoons)/(131 square miles) or 18 raccoons per square mile. Choice B is incorrect. This is the number of square miles in the area, not the estimated number of raccoons per square mile in this area. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 2,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12260_2.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "90",
+  "explanation": "The correct answer is 90. It's given that the ratio of x to y is equivalent to the ratio 9 to 5. It follows that x/y = 9/5. Multiplying each side of this equation by 5y yields (5y)x/y = 9(5y)/5, or 5x = 9y. Dividing each side of this equation by 9 yields 5x/9 = y. Substituting 162 for x in this equation yields 5(162)/9 = y, which is equivalent to 810/9 = y, or 90 = y. Therefore, if the value of x is 162, the value of y is 90."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 0.3",
+  "B) 16.3",
+  "C) 195.8",
+  "D) 220.4"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12262_3.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 16.3",
+  "explanation": "Choice B is correct. It's given that the speed of a vehicle is increasing at a rate of 7.3 meters per second squared. It's given to use 1 mile = 1,609 meters. There are 60 seconds in 1 minute; therefore, 60 squared or 3,600 seconds squared is equal to 1 minute squared. It follows that the rate of 7.3 meters per second squared is equivalent to (7.3meters/Sec^2)(1mile/1609meters)(3600sec^2/1min^2) approximately 16.33 miles per minute squared. The rate, in miles per minute squared, rounded to the nearest tenth is 16.3. Choice A is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 4,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12265_4.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "39000",
+  "explanation": "The correct answer is 39000 Its given that the giant armadillo has a mass of 39 kilograms Since 1 kilogram is equal to 1000 grams 39 kilograms is equal to 39 kilograms 1 1000 grams 1 kilogram grams Therefore the giant armadillos mass in grams is 39000 or 39000."
+},
+{
+  "id": 5,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 61",
+  "B) 67",
+  "C) 94",
+  "D) 192"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12271_5.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 192",
+  "explanation": "Choice D is correct. Since 1 yard is equal to 3 feet, 64 yards is equal to 64 yards (3 feet/1 yard), or 192 feet. It follows that 64 yards per second is equivalent to 192 feet per second. Therefore, the objects speed is 192 feet per second. Choice A is incorrect. A speed of 61 feet per second is equivalent to 61/3, not 64, yards per second. Choice B is incorrect. A speed of 67 feet per second is equivalent to 67/3, not 64, yards per second. Choice C is incorrect. A speed of 94 feet per second is equivalent to 94/3, not 64, yards per second."
+},
+{
+  "id": 6,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 306",
+  "B) 402",
+  "C) 25,960",
+  "D) 233,640"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12274_6.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 233,640",
+  "explanation": "Choice D is correct. It's given that 1 furlong = 220 yards and 1 yard = 3 feet. It follows that a distance of 354 furlongs is equivalent to (354 furlongs)(220 yards/1 furlong)(3 feet/1 yard) or 233,640 feet. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 7,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 9z/440",
+  "B) 440z/9",
+  "C) 5z/792",
+  "D) 792z/5"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12275_7.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "D) 792z/5",
+  "explanation": "Choice D is correct. It's given that a hose puts 88x ounces of water in a bucket in 5y minutes. Therefore, the rate at which the hose puts water in the bucket, in ounces per minute, can be represented by the expression 88x/5y. Let w represent the number of ounces of water the hose puts in the bucket in 9y minutes at this rate. It follows that the rate at which the hose puts water in the bucket, in ounces per minute, can be represented by the expression w/9y. The expressions 88x/5y and w/9y represent the same rate, so it follows that 88x/5y = w/9y. Multiplying both sides of this equation by 9y yields 792xy/5y = w, or 792x/5 = w. Therefore, the number of ounces of water the hose puts in the bucket in 9y minutes can be represented by the expression 792x/5. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 8,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 0.39",
+  "B) 1.27",
+  "C) 13.67",
+  "D) 23.24"
+],
+  "image": "/static/March2025_Images/ProblemSolvingAndDataAnalysis/RatioRatesProportionalUnits/12277_8.png",
+  "difficulty": "hard",
+  "active": "no",
+  "marked": false,
+  "answer": "A) 0.39",
+  "explanation": "Choice A is correct. It's given that 1 meter = 3.28 feet. It follows that 1 square meter = 3.28^2 square feet, or 1 square meter = 10.7584 square feet. Since 1 hour = 60 minutes, it follows that 250 square feet per hour is equivalent to (250 square feet / 1 hour) * (1 square meter / 10.7584 square feet) * (1 hour / 60 minutes), or 250 square meters / 645.504 minutes, which is approximately 0.3873 square meters per minute. Of the given choices, 0.39 is closest to 0.3873. Choice B is incorrect and may result from conceptual or calculation errors. Choice C is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+}
+]
+
+

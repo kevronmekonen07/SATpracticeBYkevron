@@ -1,0 +1,96 @@
+[
+{
+  "id": 1,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 188",
+  "B) 168",
+  "C) 84",
+  "D) 71"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/RightTrianglesTrigonometry/12283_1.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 168",
+  "explanation": "Choice B is correct. It's given that angle Z in triangle XYZ is a right angle. Thus, side YZ is the leg opposite angle X and side XZ is the leg adjacent to angle X. The tangent of an acute angle in a right triangle is the ratio of the length of the leg opposite the angle to the length of the leg adjacent to the angle. It follows that tan X = YZ/XZ. It's given that tan X = 12/35 and the length of side YZ is 24 units. Substituting 12/35 for tan X and 24 for YZ in the equation tan X = YZ/XZ yields 12/35 = 24/XZ. Multiplying both sides of this equation by 35(XZ) yields 12(XZ) = 24(35), or 12(XZ) = 840. Dividing both sides of this equation by 12 yields XZ = 70. The length XY can be calculated using the Pythagorean theorem, which states that if a right triangle has legs with lengths of a and b and a hypotenuse with length c, then a² + b² = c². Substituting 70 for a and 24 for b in this equation yields 70² + 24² = c², or 5,476 = c². Taking the square root of both sides of this equation yields ±74 = c. Since the length of the hypotenuse must be positive, 74 = c. Therefore, the length of XY is 74 units. The perimeter of a triangle is the sum of the lengths of all sides. Thus, (74 + 70 + 24) units, or 168 units, is the perimeter of triangle XYZ. Choice A is incorrect and may result from conceptual or calculation errors. Choice C is incorrect. This would be the perimeter, in units, for a right triangle where the length of side YZ is 12 units, not 24 units. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 2,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/RightTrianglesTrigonometry/12286_2.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "338",
+  "explanation": "The correct answer is 338. The tangent of an acute angle in a right triangle is the ratio of the length of the leg opposite the angle to the length of the leg adjacent to the angle. In triangle XYZ, it's given that angle Y is a right angle. Thus, XY is the leg opposite of angle Z and YZ is the leg adjacent to angle Z. It follows that tan Z = XY/YZ. It's also given that the measure of angle Z is 33° and the length of YZ is 26 units. Substituting 33° for Z and 26 for YZ in the equation tan Z = XY/YZ yields tan 33° = XY/26. Multiplying each side of this equation by 26 yields 26 tan 33° = XY. Therefore, the length of XY is 26 tan 33°. The area of a triangle is half the product of the lengths of its legs. Since the length of YZ is 26 and the length of XY is 26 tan 33°, it follows that the area of triangle XYZ is (1/2)(26)(26 tan 33°) square units, or 338 tan 33° square units. It's given that the area, in square units, of triangle XYZ can be represented by the expression k tan 33°, where k is a constant. Therefore, 338 is the value of k."
+},
+{
+  "id": 3,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 1 / 171",
+  "B) 35 / 171",
+  "C) 171 / 35",
+  "D) 171"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/RightTrianglesTrigonometry/12287_3.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "B) 35 / 171",
+  "explanation": "Choice B is correct. The sine of an acute angle in a right triangle is the ratio of the length of the side opposite that angle to the length of the hypotenuse. The hypotenuse of a right triangle is the side opposite the right angle. In right triangle ABC, side BC is the side opposite angle A and side AB is the hypotenuse. It's given that the length of side BC is 35 units and the length of side AB is 171 units. Therefore, the value of sin A is 35/171. Choice A is incorrect and may result from conceptual or calculation errors. Choice C is incorrect. This is the ratio of the length of the hypotenuse to the length of the side opposite angle A rather than the ratio of the length of the side opposite angle A to the length of the hypotenuse. Choice D is incorrect. This is the length of the hypotenuse rather than sin A."
+},
+{
+  "id": 4,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 43.2",
+  "B) 120",
+  "C) 192",
+  "D) 201.5"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/RightTrianglesTrigonometry/12294_4.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "C) 192",
+  "explanation": "Choice C is correct. The Pythagorean theorem states that for a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. It's given that one leg of a right triangle has a length of 43.2 millimeters. It's also given that the hypotenuse of the triangle has a length of 196.8 millimeters. Let b represent the length of the other leg of the triangle, in millimeters. Therefore, by the Pythagorean theorem, 43.2^2 + b^2 = 196.8^2, or 1,866.24 + b^2 = 38,730.24. Subtracting 1,866.24 from both sides of this equation yields b^2 = 36,864. Taking the positive square root of both sides of this equation yields b = 192. Therefore, the length of the other leg of the triangle, in millimeters, is 192. Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+},
+{
+  "id": 5,
+  "type": "free-response",
+  "question": "",
+  "choices": [],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/RightTrianglesTrigonometry/12295_5.png",
+  "difficulty": "medium",
+  "active": "no",
+  "marked": false,
+  "answer": "284/3",
+  "explanation": "The correct answer is 284/3. Since the perimeter of a triangle is the sum of the lengths of its sides, and the given triangle is equilateral, the length of each side is 852/3, or 284, centimeters (cm). Right triangle AMO can be formed, where M is the midpoint of one of the triangle's sides, A is one of this side's endpoints, and O is the center of the circle. It follows that AM is 284/2, or 142, cm. Additionally, triangle AMO has angles measuring 30°, 60°, and 90°, where the measure of angle OMA is 90° and the measure of angle OAM is 30°. It follows that the length of side MO is half the length of hypotenuse AO, and the length of side AM is sqrt(3) times the length of side MO. It's given that AO = wsqrt(3) cm. Therefore, MO = wsqrt(3)/2 cm and AM = 3w*sqrt(3)/2 cm, which is equivalent to AM = 3w/2 cm. Since AM = 142 cm, it follows that 3w/2 = 142. Multiplying both sides of this equation by 2 yields 3w = 284. Dividing both sides of this equation by 3 yields w = 284/3. Note that 284/3, 94.66, and 94.67 are examples of ways to enter a correct answer."
+},
+{
+  "id": 6,
+  "type": "multiple-choice",
+  "question": "",
+  "choices": [
+  "A) 2(cos 66°)(sin 24°)",
+  "B) 2(cos 66°) + 2(cos 24°)",
+  "C) (cos 66°)^2 + (cos 24°)^2",
+  "D) (cos 66°)^2 + (sin 24°)^2"
+],
+  "image": "/static/March2025_Images/GeometryAndTrigonometry/RightTrianglesTrigonometry/12301_6.png",
+  "difficulty": "easy",
+  "active": "no",
+  "marked": false,
+  "answer": "C) (cos 66°)^2 + (cos 24°)^2",
+  "explanation": "Choice C is correct. The sine of an angle is equal to the cosine of its complementary angle. Since angles with measures 24° and 66° are complementary to each other, sin 24° is equal to cos 66° and sin 66° is equal to cos 24°. Substituting cos 66° for sin 24° and cos 24° for sin 66° in the given expression yields (cos 66°)(cos 66°)+(cos 24°)(cos 24°), or (cos 66°)² + (cos 24°)². Choice A is incorrect and may result from conceptual or calculation errors. Choice B is incorrect and may result from conceptual or calculation errors. Choice D is incorrect and may result from conceptual or calculation errors."
+}
+]
+
+

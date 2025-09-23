@@ -46,7 +46,25 @@ try:
 		circles = json.load(f)
 except FileNotFoundError:
     linear_eq_questions = []
-	
+    linear_functions_questions = []
+    linear_eq_two_questions = []
+    system_linear_eq_questions = []
+    linear_ineq_questions = []
+    equivalent_expressions = []
+    nonlinear_equations_systems = []
+    nonlinear_functions = []
+    ratio_rates_proportional_units = []
+    percentages = []
+    one_variable_data_distributions_center_spread = []
+    two_variable_data_models_scatterplots = []
+    probability_conditional_probability = []
+    inference_sample_statistics_margin_error = []
+    evaluating_statistical_claims_studies_experiments = []
+    area_volume = []
+    lines_angles_triangles = []
+    right_triangles_trigonometry = []
+    circles = []
+
 questions = {
     'linear-equations-one-variable': linear_eq_questions,
     'linear-functions': linear_functions_questions,

@@ -1332,7 +1332,7 @@ nonlinear_functions = [
   "C) The estimated value of the tablet had decreased by $225 in the 24 months after it was purchased.",
   "D) The estimated value of the tablet decreased by approximately 2.25% each year after it was purchased."
 ],
-  "image": "/static/March2025_Images/AdvancedMath/NonlinearFunctions/12138_1.png",
+  "image": "/static/March2025_Images/AdvancedMath/NonlinearFunctions/12200_1.png",
   "difficulty": "easy",
   "active": "no",
   "marked": False,
